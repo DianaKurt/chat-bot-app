@@ -34,21 +34,21 @@
 
 1. **Клонируйте репозиторий**
    git clone https://github.com/DianaKurt/chat-bot-app.git
-   cd chat-bot-app
+   ```cd chat-bot-app
 
 2. **Установите зависимости**
-    npm install
+    ```npm install
 3. **Создайте файл .env и добавьте свой ключ OpenAI**
-   OPENAI_API_KEY=ваш_секретный_ключ
+   ```OPENAI_API_KEY=ваш_секретный_ключ
    
 4. **Запустите Expo**
-   npx expo start
+   ```npx expo start
    
 5. **Сканируйте QR-код через приложение Expo Go**
 
 
 **Доступ из браузера**
-web-версию:
+web-версия:
 http://localhost:8082
 
 **Идеи для развития**
